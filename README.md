@@ -1,3 +1,1 @@
-# EarningsCallCleaning
-
 hello world!
